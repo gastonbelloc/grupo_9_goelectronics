@@ -1,4 +1,4 @@
-# web-full-stack-grupo-9
+# grupo_9_goelectronics
 Integrantes:  Lucas CANZANI
               Gastón BELLOC
               Sebastián SILVA ARBALLO
@@ -8,8 +8,8 @@ Rango etario principal: 15 a 50 años (es un rango amplio, porque los productos 
 Rango etario secundario: -15 y +50 (todos aquellos que puedan comprar a traves de una plataforma)
 
 Referentes:
-    www.apple.com
-    www.samsung.com
-    www.bestbuy.com
-    www.garbarino.com
-    https://tienda.movistar.com.ar
+    www.apple.com : Principalmente nos basamos en su estética de página web
+    www.samsung.com : Tomamos algunos colores
+    www.bestbuy.com : La modalidad de carrito y cuentas
+    www.garbarino.com : Carrito de compras y recuadros
+    https://tienda.movistar.com.ar : Página web dedicada en su mayoría a celulares móviles
