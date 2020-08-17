@@ -1,4 +1,4 @@
-# grupo_9_goelectronics
+# grupo_9_gotronics
 Integrantes:  Lucas CANZANI
               Gastón BELLOC
               Sebastián SILVA ARBALLO
