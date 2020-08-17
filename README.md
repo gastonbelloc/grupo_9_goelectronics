@@ -1,7 +1,7 @@
 # web-full-stack-grupo-9
 Integrantes:  Lucas CANZANI
               Gastón BELLOC
-              Sebastián SILVA ARBALLOç
+              Sebastián SILVA ARBALLO
 
 Temática: Tecnología y Accesorios
 Rango etario principal: 15 a 50 años (es un rango amplio, porque los productos a comercializar son utilizados por todos)
